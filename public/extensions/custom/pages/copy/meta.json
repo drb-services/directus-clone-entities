@@ -1,0 +1,7 @@
+{
+  "name": "Clone Items",
+  "version": "1.0.6",
+  "icon": "file_copy",
+  "types": ["string"],
+  "options": {}
+}
