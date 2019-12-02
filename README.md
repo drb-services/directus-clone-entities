@@ -11,7 +11,7 @@ DEPLOY
 4. npm install
 
 5. run:
-   parcel build page.vue -d ./ --no-source-maps --global __DirectusExtension__
+   <pre>parcel build page.vue -d ./ --no-source-maps --global __DirectusExtension__</pre>
 
 
 
